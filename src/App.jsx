@@ -1,10 +1,7 @@
-function App() {
+import React from "react";
 
-  return (
-    <div>
-      Hello world!
-    </div>
-  )
+function App() {
+  return <h1> Hello Zoki world!!!!!</h1>;
 }
 
-export default App
+export default App;
